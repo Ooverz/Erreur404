@@ -1,5 +1,6 @@
 .img{
-	text-align: center;
+	/*background-image: url("img/404.jpeg");*/
+	margin: 100px 0 0 300px;
 	animation : fadeIn ease 5s;
 	-webkit-animation: fadeIn ease 5s;
 	-moz-animation: fadeIn ease 5s;
@@ -8,7 +9,8 @@
 }
 
 .img:hover{
-	content: url("img/mort.jgeg");
+	margin: 100px 0 0 300px;
+	background-image: url("img/mort.jpeg") no-repeat;
 }
 
 @keyframes fadeIn {
