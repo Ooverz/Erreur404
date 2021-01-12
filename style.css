@@ -38,7 +38,7 @@ body{
 
 /* Disposition des images et switch des images avec l'hover*/
 .cont{
-	margin: 100px 0 0 390px;
+	margin: 100px 0 0 50%;
     position: relative;
     width: 50%;
   }
